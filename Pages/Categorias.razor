@@ -1,0 +1,53 @@
+﻿@page "/categorias"
+
+@using Models
+@using Services
+@inject ICategoriasService CategoriaService
+
+<MudText Typo="Typo.h3">Categorias</MudText>
+ 
+<MudGrid>
+    @foreach (var item in categori)
+    {
+        string categoria = "";
+        <MudItem xs="12" sm="10" md="6" lg="4">
+            <MudCard>
+                <MudCardHeader Class="blue darken-1">
+                    <CardHeaderContent>
+                        <MudText Typo="Typo.h6">@item.Nombre</MudText>
+                    </CardHeaderContent>
+                </MudCardHeader>
+                <MudCardContent>
+                    @switch (item.Menu)
+                    {
+                        case 1:
+                            categoria = "Bebidas Calientes";
+                            break;
+                        case 2:
+                            categoria = "Bebidas Frias";
+                            break;
+                        case 3:
+                            categoria = "Comida";
+                            break;
+
+                    }
+                    <MudText Typo="Typo.body2">Menu: @categoria</MudText>
+
+                </MudCardContent>
+                <MudCardActions>
+                    <MudButton Link="@($"/categorixproduc/{item.Id}")" Variant="Variant.Outlined" Color="Color.Tertiary"
+                           Class="text-center">Ver Categorias</MudButton>
+                </MudCardActions>
+            </MudCard>
+        </MudItem>
+    }
+</MudGrid>
+
+@code {
+    IEnumerable<Categoria> categori = new List<Categoria>();
+    protected override async Task OnInitializedAsync()
+    {
+        categori = await CategoriaService.GetAll();
+    }
+}
+
