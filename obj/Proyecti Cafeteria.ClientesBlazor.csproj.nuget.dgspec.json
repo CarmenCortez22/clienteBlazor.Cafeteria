@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Downloads\\ProyectoCafeteria.ClientesBlazor\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\Proyecti Cafeteria.ClientesBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Downloads\\ProyectoCafeteria.ClientesBlazor\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor.csproj": {
+    "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\Proyecti Cafeteria.ClientesBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Downloads\\ProyectoCafeteria.ClientesBlazor\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\Proyecti Cafeteria.ClientesBlazor.csproj",
         "projectName": "Proyecti Cafeteria.ClientesBlazor",
-        "projectPath": "C:\\Users\\Alumno\\Downloads\\ProyectoCafeteria.ClientesBlazor\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Downloads\\ProyectoCafeteria.ClientesBlazor\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\obj\\",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\Proyecti Cafeteria.ClientesBlazor.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +72,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.9, 6.0.9]"
+              "version": "[6.0.11, 6.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -85,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

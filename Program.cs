@@ -1,4 +1,4 @@
-using Proyecti_Cafeteria.ClientesBlazor.Services;
+using Proyecto_Cafeteria.ClientesBlazor.Services;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -10,7 +10,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Proyecti_Cafeteria.ClientesBlazor
+namespace Proyecto_Cafeteria.ClientesBlazor
 {
     public class Program
     {

@@ -3,10 +3,10 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Proyecti_Cafeteria.ClientesBlazor.Models;
+using Proyecto_Cafeteria.ClientesBlazor.Models;
 
 
-namespace Proyecti_Cafeteria.ClientesBlazor.Services
+namespace Proyecto_Cafeteria.ClientesBlazor.Services
 {
     public class ProductosService : IProductosService
     {

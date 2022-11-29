@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Proyecti_Cafeteria.ClientesBlazor.Models
+namespace Proyecto_Cafeteria.ClientesBlazor.Models
 
 {
     public class Producto

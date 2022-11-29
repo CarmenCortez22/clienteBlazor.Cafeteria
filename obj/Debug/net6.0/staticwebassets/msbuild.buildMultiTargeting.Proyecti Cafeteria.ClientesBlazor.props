@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Proyecti Cafeteria.ClientesBlazor.props" />
+</Project>

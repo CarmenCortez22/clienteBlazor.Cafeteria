@@ -1,8 +1,8 @@
-﻿using Proyecti_Cafeteria.ClientesBlazor.Models;
+﻿using Proyecto_Cafeteria.ClientesBlazor.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Proyecti_Cafeteria.ClientesBlazor.Services
+namespace Proyecto_Cafeteria.ClientesBlazor.Services
 {
     public interface ICategoriasService
     {

@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using Proyecti_Cafeteria.ClientesBlazor.Models;
+using Proyecto_Cafeteria.ClientesBlazor.Models;
 
-namespace Proyecti_Cafeteria.ClientesBlazor.Services
+namespace Proyecto_Cafeteria.ClientesBlazor.Services
 {
     public interface IProductosService
     {

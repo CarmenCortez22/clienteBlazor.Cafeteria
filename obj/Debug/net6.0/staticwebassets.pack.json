@@ -1,68 +1,68 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\obj\\Debug\\net6.0\\build-gz\\+++Pr5Hs.gz",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\obj\\Debug\\net6.0\\build-gz\\+++Pr5Hs.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecti Cafeteria.ClientesBlazor.styles.css",
-      "PackagePath": "staticwebassets\\Proyecti Cafeteria.ClientesBlazor.styles.css"
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto Cafeteria.ClientesBlazor.styles.css",
+      "PackagePath": "staticwebassets\\Proyecto Cafeteria.ClientesBlazor.styles.css"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\obj\\Debug\\net6.0\\service-worker-assets.js",
       "PackagePath": "staticwebassets\\service-worker-assets.js"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\Images\\cafes.jpg",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\Images\\cafes.jpg",
       "PackagePath": "staticwebassets\\Images\\cafes.jpg"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\icon-512.png",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\index.html",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\manifest.json",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\ProyectoCafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\Proyecti Cafeteria.ClientesBlazor\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\MINEDUCYT\\Source\\Repos\\CarmenCortez22\\clienteBlazor.Cafeteria\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Proyecti Cafeteria.ClientesBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Proyecto Cafeteria.ClientesBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Proyecti Cafeteria.ClientesBlazor.props",
-      "PackagePath": "build\\Proyecti Cafeteria.ClientesBlazor.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Proyecto Cafeteria.ClientesBlazor.props",
+      "PackagePath": "build\\Proyecto Cafeteria.ClientesBlazor.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Proyecti Cafeteria.ClientesBlazor.props",
-      "PackagePath": "buildMultiTargeting\\Proyecti Cafeteria.ClientesBlazor.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Proyecto Cafeteria.ClientesBlazor.props",
+      "PackagePath": "buildMultiTargeting\\Proyecto Cafeteria.ClientesBlazor.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Proyecti Cafeteria.ClientesBlazor.props",
-      "PackagePath": "buildTransitive\\Proyecti Cafeteria.ClientesBlazor.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Proyecto Cafeteria.ClientesBlazor.props",
+      "PackagePath": "buildTransitive\\Proyecto Cafeteria.ClientesBlazor.props"
     }
   ],
   "ElementsToRemove": []

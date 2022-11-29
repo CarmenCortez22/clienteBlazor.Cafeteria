@@ -1,4 +1,4 @@
-﻿namespace Proyecti_Cafeteria.ClientesBlazor.Models
+﻿namespace Proyecto_Cafeteria.ClientesBlazor.Models
 {
     public class Categoria
     {
